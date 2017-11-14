@@ -110,7 +110,7 @@ div.intend {
     text-align: center;
 }
 #map {
-    position: relative;
+    position: absolute;
     margin-left: 10%;
     margin-right: 10%;
     width: 80%;
@@ -118,7 +118,6 @@ div.intend {
     background-color: gray;
 }
 #first_encounter_www {
-    margin-top: 10px;
     font-family: "Bernard MT", serif;
     display: block;
     background-color: #CCDEBE;
