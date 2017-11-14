@@ -5,6 +5,7 @@ function initMap() {
       center: location1
     });
     var marker1 = new google.maps.Marker({
+      label: labels[labelIndex++ % labels.length],
       position: location1,
       map: map
     });
