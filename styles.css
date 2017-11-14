@@ -113,12 +113,12 @@ div.intend {
     position: absolute;
     margin-left: 10%;
     margin-right: 10%;
-    margin-bottom: 10px;
     width: 80%;
     height: 400px;
     background-color: gray;
 }
 #first_encounter_www {
+    margin-top: 10px;
     font-family: "Bernard MT", serif;
     display: block;
     background-color: #CCDEBE;
