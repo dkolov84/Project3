@@ -1,0 +1,192 @@
+/* Style sheet for my project 2. Added CSS code. */
+
+/* Navigation CSS layout for all of the pages */
+
+.navigation {
+  background-color: #0F5EB7;
+  position: fixed;
+  text-align: center;
+  z-index: 10;
+  width: 100%;
+  top: 0;
+  margin-top: 0;
+  margin-bottom: 20px;
+}
+
+.navigation ul {
+  position: relative;
+  display: inline-block;
+  text-align: center;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden; 
+}
+
+.navigation ul li {
+  float: left;
+}
+
+.navigation ul li a {
+  display: block;
+  padding: 20px;
+  font-size: 20px;
+  color: #CC0000;
+  text-decoration: none;
+  font-weight: bold;
+  text-transform: uppercase;
+  font-family: "Agency FB", serif;
+}
+
+.navigation ul li a:hover {
+  background-color: #FFFF99;
+  color: #CC6600;
+}
+
+body {
+    background-color: #CCCDCE;
+}
+
+h1 {
+    color: green;
+    text-align: center;
+    margin-top: 80px;
+    font-size: 40px;
+    font-weight: bold;
+    font-family: "Bernard MT", serif;
+} 
+h2 {
+    text-align: center;
+    font-size: 30px;
+    padding: 10px;
+    color: #CC0000;
+    border: 2px solid #0AC4E1;
+    border-radius: 5px;
+}
+h3 {
+    color: red;
+    font-size: 17px;
+    padding: 10px;
+    margin-left: 30px;
+}
+h4 {
+    border-style: inset;
+    border-width: 4px;
+    padding: 10px;
+}
+footer {
+	position: fixed;
+	margin-top: 40px;
+	right: 30px;
+	left: 30px;
+	bottom: 0;
+	display: block;
+	height: 41px;
+	padding: 5px;
+	text-align: center;
+	color: #CC0000;
+	background-color: #0F5EB7;
+}
+footer:hover {
+  background-color: #FFFF99;
+  color: #CC6600;
+}
+	
+div.intend {
+    color: black;
+    text-align: center;
+    padding: 5px;
+}
+#contact info {
+    text-align: center;
+    padding: 0;
+}
+#background_info {
+    font-family: "Bernard MT", serif;
+    display: block;
+    background-color: #CCDEBE;
+    font-size: 22px;
+    color: #120B80;
+    text-align: center;
+}
+#first_encounter_www {
+    font-family: "Bernard MT", serif;
+    display: block;
+    background-color: #CCDEBE;
+    font-size: 22px;
+    color: #120B80;
+    text-align: center;
+}
+#cancun {
+    margin-top: 40px;
+    position: relative;
+    float: left;
+}
+#dominican_rep {
+    margin-top: 40px;
+    position: relative;
+    float: right;
+}
+#skills {
+    position: relative;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 90px;
+    color: green;
+    padding: 20px;
+    font-family: "Bernard MT", serif;
+    font-size: 22px;
+}
+div.w3c {
+    position: fixed;
+    float: left;
+    margin-left: 20px;
+    margin-bottom: 15px;
+}
+.w3cpic {
+	position: fixed;
+	border: 0;
+	margin-top: 0;
+	margin-left: 10px;
+	width: 88px;
+	height: 31px;
+}
+p {
+    color: #120B80;
+    text-align: center;
+    padding: 30px;
+    font-size: 20px;
+    font-family: "Bernard MT", serif;
+}
+img {
+    display: block;
+    margin: auto;
+    width: 20%;
+}
+div.gallery {
+    margin: 8px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 180px;
+}
+
+div.gallery:hover {
+    border: 1px solid #777;
+}
+
+div.gallery img {
+    width: 100%;
+    height: auto;
+}
+
+div.desc {
+    padding: 20px;
+    text-align: center;
+}
+div.mailto {
+    margin-bottom: 15px;
+    text-align: center;
+}
+li.knowledge {
+    margin-top: 15px;
+}
