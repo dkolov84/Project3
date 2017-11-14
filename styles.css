@@ -109,6 +109,11 @@ div.intend {
     color: #120B80;
     text-align: center;
 }
+#map {
+    width: 80%;
+    height: 400px;
+    background-color: gray;
+}
 #first_encounter_www {
     font-family: "Bernard MT", serif;
     display: block;
