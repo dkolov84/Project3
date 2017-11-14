@@ -110,6 +110,7 @@ div.intend {
     text-align: center;
 }
 #map {
+    position: center;
     width: 80%;
     height: 400px;
     background-color: gray;
