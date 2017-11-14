@@ -5,7 +5,7 @@ function initMap() {
       center: location1
     });
     var marker1 = new google.maps.Marker({
-      title: "My hometown: MONTANA",
+      title: 'My hometown: MONTANA',
       position: location1,
       map: map
     });
