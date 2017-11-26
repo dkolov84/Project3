@@ -1,5 +1,3 @@
-<script language="JavaScript1.2">
-
 var howOften = 5; //number often in seconds to rotate
 var current = 0; //start the counter at 0
 var ns6 = document.getElementById&&!document.all; //detect netscape 6
@@ -32,4 +30,3 @@ function rotater() {
 }
 window.onload=rotater;
 //-->
-</script>
