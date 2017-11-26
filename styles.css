@@ -129,14 +129,19 @@ div.intend {
 }
 #cancun {
     margin-top: 40px;
+    margin-left: 8px;
     position: relative;
     float: left;
 }
 #dominican_rep {
     margin-top: 40px;
+    margin-right: 8px;
     position: relative;
     float: right;
 }
+#plceholderdiv {
+	position: relative;
+	margin-top: 30px:
 #skills {
     position: relative;
     text-align: center;
