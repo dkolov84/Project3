@@ -133,6 +133,11 @@ div.intend {
     position: relative;
     float: left;
 }
+#igallery{
+    margin-top: 30px;
+    margin-bottom: 10px;
+    position: relative;
+}
 #dominican_rep {
     margin-top: 40px;
     margin-right: 8px;
