@@ -130,6 +130,7 @@ div.intend {
 #cancun {
     margin-top: 40px;
     margin-left: 8px;
+    margin-bottom: 40px;
     position: relative;
     float: left;
 }
@@ -141,6 +142,7 @@ div.intend {
 #dominican_rep {
     margin-top: 40px;
     margin-right: 8px;
+    margin-bottom: 40px;
     position: relative;
     float: right;
 }
