@@ -4,10 +4,10 @@ var ns6 = document.getElementById&&!document.all; //detect netscape 6
 
 // place your images, text, etc in the array elements here
 var items = new Array();
-    items[0]="<a href='link.htm' ><img alt='image0 (9K)' src=' /images/igallery/image0.JPG' height='300' width='300' border='0' /></a>"; //a linked image
+    items[0]="<a href='link.htm' ><img alt='image0 (9K)' src='/images/igallery/image0.JPG' height='300' width='300' border='0' /></a>"; //a linked image
     items[1]="<a href='link.htm'><img alt='image1 (9K)' src='/images/igallery/image1.JPG' height='300' width='300' border='0' /></a>"; //a linked image
     items[2]="<a href='link.htm'><img alt='image2 (9K)' src='/images/igallery/image2.JPG' height='300' width='300' border='0' /></a>"; //a linked image
-   items[3]="<a href='link.htm'><img alt='image3 (9K)' src='/images/igallery/image3.JPG' height='300' width='300' border='0' /></a>"; //a linked image
+    items[3]="<a href='link.htm'><img alt='image3 (9K)' src='/images/igallery/image3.JPG' height='300' width='300' border='0' /></a>"; //a linked image
     items[4]="<a href='link.htm'><img alt='image4 (9K)' src='/images/igallery/image4.JPG' height='300' width='300' border='0' /></a>"; //a linked image
     items[5]="<a href='link.htm'><img alt='image5 (18K)' src='/images/igallery/image5.JPG' height='300' width='300' border='0' /></a>"; //a linked image
 function rotater() {
