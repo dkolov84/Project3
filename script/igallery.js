@@ -10,6 +10,10 @@ var items = new Array();
     items[3]="<a href='images/igallery/image3.JPG'><img alt='Campfire' src='images/igallery/image3.JPG' height='225' width='300' border='0' /></a>"; //a linked image
     items[4]="<a href='images/igallery/image4.JPG'><img alt='Vegas Baby!' src='images/igallery/image4.JPG' height='225' width='300' border='0' /></a>"; //a linked image
     items[5]="<a href='images/igallery/image5.JPG'><img alt='Vegas Baby2!' src='images/igallery/image5.JPG' height='225' width='300' border='0' /></a>"; //a linked image
+    items[6]="<a href='images/igallery/image6.JPG'><img alt='Cancun Beach' src='images/igallery/image6.JPG' height='225' width='300' border='0' /></a>"; //a linked image
+    items[7]="<a href='images/igallery/image7.JPG'><img alt='Sand Heart' src='images/igallery/image7.JPG' height='225' width='300' border='0' /></a>"; //a linked image
+    items[8]="<a href='images/igallery/image8.JPG'><img alt='Hands' src='images/igallery/image8.JPG' height='225' width='300' border='0' /></a>"; //a linked image
+    items[9]="<a href='images/igallery/image9.JPG'><img alt='Az i Kotence' src='images/igallery/image9.JPG' height='225' width='300' border='0' /></a>"; //a linked image
 function rotater() {
     document.getElementById("placeholder").innerHTML = items[current];
     current = (current==items.length-1) ? 0 : current + 1;
